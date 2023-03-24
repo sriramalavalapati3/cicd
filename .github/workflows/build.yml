@@ -1,6 +1,6 @@
 on: push
 jobs:
-    third-job:
+    second-job:
        runs-on: ubuntu-latest
        steps:
              - run: node --version
